@@ -76,9 +76,6 @@ The system processes audio files with the following specifications:
 
 The project uses transformer-based models for accent classification, leveraging state-of-the-art deep learning techniques for audio processing and classification.
 
-## License
-
-[Add your chosen license here]
 
 ## Contributing
 
